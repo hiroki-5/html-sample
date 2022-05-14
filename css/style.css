@@ -51,3 +51,11 @@ title-text {
         display: block;
         clear: both;
     }
+
+    footer {
+        text-align: center;
+    }
+    
+    .copyright {
+        color: #777;
+    }Ï
