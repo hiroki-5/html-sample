@@ -1,4 +1,4 @@
-title-text {
+.title-text {
     color: red;
     font-size: 14px;
 
@@ -47,7 +47,7 @@ title-text {
         text-decoration: none;
     }
 
-    Ï clearfix:after {
+    .clearfix:after {
         content: "";
         display: block;
         clear: both;
@@ -61,7 +61,7 @@ title-text {
         color: #777;
     }
 
-    card-contents {
+    .card-contents {
         padding: 40px;
         margin-bottom: 20px;
         background-color: #fff;
@@ -85,7 +85,7 @@ title-text {
         float: left;
     }
 
-    information-list {
+    .information-list {
         list-style-type: none;
         padding-left: 0;
       }
@@ -94,7 +94,7 @@ title-text {
         margin-bottom: 10px;
       }
 
-      staff {
+      .staff {
         width: 150px;
         margin-right: 35px;
         float: left;
@@ -113,3 +113,5 @@ title-text {
     .staff-name {
         text-align: center;
     }
+
+    
